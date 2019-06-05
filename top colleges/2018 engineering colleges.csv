@@ -1,0 +1,101 @@
+Rank,Name of Institute,City,G/P,"IC (30)","I&F (20)","PS (15)","II (15)","P 20)","T (100)"
+1,IIT Kanpur,Kanpur,G,28.3,18.9,13.8,13.2,18.5,92.7
+2,IIT Kharagpur,Kharagpur,G,27.9,18.8,13.7,13.5,18.3,92.2
+3,IIT Bombay,Mumbai,G,27.2,18.6,13.0,13.7,18.7,91.2
+4,IIT Madras,Chennai,G,26.7,18.3,13.3,12.9,17.8,89.1
+5,IIT Delhi,Delhi,G,26.1,18.5,12.7,13.4,18.1,88.8
+6,BITS Pilani,Pilani,P,25.8,17.8,13.5,13.5,17.3,87.9
+7,IIT Roorkee,Roorkee,G,25.5,18.6,12.9,12.4,16.3,85.6
+8,IT-BHU,Varanasi,G,23.9,18.2,12.7,11.9,15.9,82.6
+9,IIT Guwahati,Guwahati,G,25.2,18.1,12.5,10.5,15.1,81.4
+10,"College of Engg, Anna University",Guindy,G,25.3,16.7,12.4,12.8,14.1,81.3
+11,"Jadavpur University, Faculty of Engg & Tech",Calcutta,G,25.2,16.4,11.7,11.4,15.4,80.1
+12,Indian School of Mines,Dhanbad,G,24.7,15.5,12.2,12.2,14.7,79.3
+13,NIT,Warangal,G,24.9,16.9,11.8,11.5,14.0,79.1
+14,"BIT, Mesra",Ranchi,P,23.6,13.7,12.3,12.3,14.2,76.1
+15,NIT,Trichy,G,24.0,17.3,10.4,10.5,13.5,75.7
+16,Delhi College of Engineering,New Delhi,G,22.4,15.9,12.6,10.8,13.8,75.5
+17,Punjab Engineering College,Chandigarh,G,22.0,17.7,10.1,09.3,15.8,74.9
+18,NIT,Suratkal,G,23.9,17.1,10.3,10.1,13.3,74.7
+19,Motilal Nehru National Inst. of Technology,Allahabad,G,22.8,16.5,11.3,09.9,14.1,74.6
+20,Thapar Inst of Engineering & Technology,Patiala,p,21.6,16.3,12.3,12.2,12.0,74.4
+21,"Bengal Eng and Science University, Shibpur",Howrah,G,23.0,15.7,12.0,10.5,12.1,73.3
+22,MANIT,Bhopal,G,23.5,16.3,10.6,10.4,12.4,73.2
+23,PSG College of Technology,Coimbatore,G,21.8,14.9,09.8,13.6,12.8,72.9
+24,IIIT,Hyderabad,G,21.3,16.3,10.3,10.7,13.9,72.5
+25,Harcourt Butler Technological Institute,Kanpur,G,23.0,15.5,11.3,10.2,12.4,72.4
+26,Malviya National Institute of Technology,Jaipur,G,22.5,16.5,10.4,09.2,13.0,71.6
+27,VNIT,Nagpur,G,21.8,15.7,10.8,10.2,12.5,71.0
+28,NIT,Kozhikode,G,21.9,16.8,09.9,10.2,11.9,70.7
+29,Dhirubhai Ambani IICT,Gandhinagar,P,22.7,16.3,10.6,09.6,11.2,70.4
+30,Osmania Univ. College of Engineering,Hyderabad,G,22.7,14.0,10.3,10.9,12.4,70.3
+31,"College of Engineering, Andhra University",Vishakhapatnam,G,22.5,12.7,10.7,10.8,13.5,70.2
+32,Netaji Subhas Institute of Technology,New Delhi,G,22.0,16.5,09.3,09.7,12.0,69.5
+33,NIT,Kurukshetra,G,21.8,15.7,09.9,09.6,12.0,69.1
+34,NIT,Rourkela,G,20.4,14.6,10.3,10.3,13.3,68.9
+35,SVNIT,Surat,G,20.3,14.2,10.1,10.6,13.6,68.8
+36,Govt. College of Engineering,Pune,G,21.2,12.2,11.1,11.5,12.7,68.7
+37,Manipal Institute of Technology,Manipal,p,21.7,12.8,11.2,10.4,12.5,68.6
+38,JNTU,Hyderabad,G,21.8,12.5,10.9,10.2,12.9,68.3
+39,R.V. College of Engineering,Bangalore,p,20.6,13.2,10.8,10.6,13.0,68.2
+40,NIT,Jamshedpur,G,19.9,13.4,10.4,10.4,14.0,68.1
+41,University Visvesvaraya College of Engg.,Bangalore,G,22.0,13.3,09.6,09.9,12.8,67.6
+42,VJTI,Mumbai,G,20.3,12.6,10.7,10.5,13.4,67.5
+43,Vellore Institute of Technology,Vellore,P,20.3,16.9,09.8,10.1,10.3,67.4
+44,Coimbatore Institute of Technology,Coimbatore,G,20.4,13.0,10.8,12.2,10.9,67.3
+45,SSN College of Engineering,Chennai,P,21.4,12.7,11.3,11.2,10.6,67.2
+46,IIIT,Allahabad,G,19.2,13.6,12.0,10.5,11.8,67.1
+47,College of Engineering,Trivandrum,G,19.3,16.1,08.9,09.4,13.3,67.0
+48,NIT Durgapur,Durgapur,G,20.5,12.4,11.3,10.7,12.0,66.9
+49,SIT,Calcutta,G,22.9,13.4,10.1,08.9,11.5,66.8
+50,Mumbai University Inst of Chemical Tech,Mumbai,G,20.2,12.5,11.4,10.0,12.6,66.7
+51,Sardar Patel College of Engineering,Mumbai,p,20.1,12.7,10.2,10.4,13.2,66.6
+52,P.E.S. Institute of Technology,Bangalore,p,19.5,13.1,11.0,11.7,11.0,66.3
+53,Maharashtra Institute of Technology,Pune,p,20.3,13.4,10.0,10.2,12.3,66.2
+54,Amrita Institute of Technology & Science,Coimbatore,p,19.8,12.2,12.1,10.5,11.5,66.1
+55,National Institute of Engineering,Mysore,p,19.6,11.9,12.0,10.2,12.2,65.9
+56,B.M.S. College of Engineering,Bangalore,p,19.7,13.1,10.9,09.6,12.3,65.6
+57,Laxminarayan Institute Of Tech.,Nagpur,G,20.3,12.4,10.3,10.1,12.4,65.5
+58,Nirma Institute of Technology,Ahmedabad,p,19.3,13.9,10.2,10.0,12.0,65.4
+59,IIIT,Pune,G,19.4,12.6,10.2,10.3,12.7,65.2
+60,Amity School of Engineering,Noida,p,19.7,13.5,09.3,10.1,12.5,65.1
+61,JNTU,Kakinada,G,19.8,12.9,09.8,10.1,12.4,65.1
+62,S.J. College of Engineering,Mysore,P,19.7,12.8,10.8,09.4,11.9,64.6
+63,Chaitanya Bharathi Inst. of Technology,Hyderabad,P,19.3,13.3,09.8,09.2,12.9,64.5
+64,IIIT,Bangalore,G,19.0,11.6,12.1,10.7,10.9,64.3
+65,SRM Institute of Science and Technology,Chennai,P,21.0,12.4,09.3,08.4,13.1,64.2
+66,SASTRA,Thanjavur,P,18.5,13.2,12.0,10.3,10.1,64.1
+67,Bangalore Institute of Technology,Bangalore,P,19.5,11.8,10.5,10.2,12.0,64.0
+68,The Technological Inst. of Textile & Sciences,Bhiwani,G,19.7,12.9,11.3,09.3,10.7,63.9
+69,IIIT,Gwalior,G,19.7,12.7,10.2,10.3,10.9,63.8
+70,JNTU,Anantpur,G,18.9,12.4,11.3,09.0,11.8,63.4
+71,M.S. Ramaiah Institute of Technology,Bangalore,P,18.7,14.2,10.1,08.7,11.5,63.2
+72,Gitam,Vishakhapatnam,P,19.2,14.8,10.6,06.2,12.3,63.1
+73,NIT,Hamirpur,G,18.3,14.8,09.7,07.9,12.2,62.9
+74,NIT,Jalandhar,G,19.6,12.7,09.3,09.1,12.2,62.8
+75,SV University Engineering College,Tirupati,G,19.8,11.5,10.3,10.1,10.7,62.4
+76,NIT,Raipur,G,18.7,13.1,09.6,09.1,11.8,62.3
+77,Vasavi College of Engineering,Hyderabad,P,19.6,14.1,09.6,07.1,11.8,62.2
+78,The ICFAI Inst of Science and Technology,Hyderabad,P,20.5,08.4,11.9,11.6,09.7,62.1
+79,NIT,Patna,G,19.7,12.2,10.7,09.2,10.2,62.0
+80,Cummins College of Engg for Women,Pune,G,20.1,08.7,11.7,11.3,10.1,61.9
+81,VIT,Pune,P,17.9,11.2,11.7,10.0,10.5,61.3
+82,Shri Ramdeo Baba K.N. Engineering College,Nagpur,P,18.7,13.3,10.4,08.2,09.7,60.3
+83,Muffakham Jah Engineering College,Hyderabad,P,17.1,12.2,08.1,10.2,12.4,60.0
+84,Karunya Institute of Technology,Coimbatore,P,18.1,12.1,08.9,08.4,12.3,59.8
+85,D.J. Sanghvi,Mumbai,P,18.2,12.9,08.1,09.5,11.0,59.7
+86,Sathyabhama Engineering College,Chennai,P,17.6,12.4,09.5,08.2,11.8,59.5
+87,Kongu Engineering College,Erode,P,17.8,12.7,09.3,08.5,11.2,59.4
+88,Mepco Schlenk Engineering College,Sivakasi,P,17.5,13.8,08.7,08.5,10.8,59.3
+89,Guru Nanak Dev Engineering College,Ludhiana,G,17.7,12.4,08.6,08.8,11.6,59.1
+90,Hindustan Inst of Engineering Technology,Chennai,P,18.9,11.3,09.2,09.3,10.2,58.9
+91,SDM College of Engineering,Dharwad,P,16.5,12.7,08.0,09.6,11.7,58.5
+92,R.V.R. & J.C. College Of Engg,Guntur,P,16.8,12.1,09.6,08.7,11.2,58.4
+93,"Jamia Millia Islamia, New Delhi",New Delhi,G,19.8,10.2,08.8,08.7,10.8,58.3
+94,K.L. College of Engineering,Veddeswaram,P,17.8,12.8,09.4,07.5,10.7,58.2
+95,Dharmsinh Desai Institute of Technology,Nadiad,P,16.1,12.1,10.3,09.1,10.1,57.7
+96,S.G.S. Institute of Technology & Science,Indore,G,16.1,11.3,09.8,09.5,10.3,57.0
+97,Jabalpur Engineering College,Jabalpur,G,15.9,12.5,08.2,08.5,11.8,56.9
+98,Sree Chitra Thirunal College of Engineering,Trivandrum,P,15.5,12.5,07.9,08.7,09.9,54.5
+99,G.H. Patel College of Engg & Technology,Vallabh Vidyanagar,G,15.1,12.8,09.5,07.4,09.6,54.4
+100,Kalinga Institute of Industrial Technology,Bhubaneshwar,P,14.9,12.9,08.1,08.5,09.8,54.2
